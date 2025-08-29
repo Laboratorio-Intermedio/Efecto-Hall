@@ -1,0 +1,1 @@
+Debido a un fallo en la placa no fue posible tomar mediciones, aproximadamente a temperatura ambiente (20 grados aprox) se tiene una temperatura de 52 (medida). Se supuso un desfase de 30 grados, sin embargo al variar la temperatura en la placa (para empezar a calentarla), se paso de 52 a 210 grados celcius de manera muy rápida, lo que no tiene sentido.
